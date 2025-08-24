@@ -134,6 +134,7 @@
           "category_name_en": "Visa",
           "category_name_uz": "Viza", 
           "category_description_en": "Visa applications, renewals, and immigration assistance",
+          "category_description_uz": "Visa applications, renewals, and immigration assistance",
        }
 }
 ```
@@ -152,6 +153,7 @@
   "1": {  "news_id": 23
           "news_title_en": "The rules for getting E-7 have changed",
           "news_title_uz": "E-7 olish qoidalari o'zgardi",
+          "news_header_image": "https//ggsdkjkjgdsjnl"
        }
 }
 ```
@@ -170,6 +172,7 @@
   "1": {  "article_id": 24
           "article_title_en": "How to open a bank account in Korea",
           "article_title_uz": "Qanday qilib bank hisob raqam ochish", 
+          "articles_header_image": "https//jnczkjvbnkzkv"
        }
 }
 ```
